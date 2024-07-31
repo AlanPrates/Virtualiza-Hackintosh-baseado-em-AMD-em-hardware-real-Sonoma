@@ -4,9 +4,9 @@
 
 ### Passos:
 
-1. No arquivo `config.plist` (veja a imagem) dentro do seu EFI de boot, adicione os números `csr-active-config = 03080000` (veja a imagem) na seção NVRAM do `config.plist` (para contornar problemas de assinatura de kext com segurança e privacidade no Oracle Box com essa desativação parcial do SIP).
+1. No arquivo `config.plist` dentro do seu EFI de boot, adicione os números `csr-active-config = 03080000` (veja a imagem) na seção NVRAM do `config.plist` (para contornar problemas de assinatura de kext com segurança e privacidade no Oracle Box com essa desativação parcial do SIP).
 
-2. Adicione os detalhes do `AMFIPass.kext` (veja a imagem) na seção de kernel do `config.plist`. Salve o `config.plist` de volta na pasta EFI /OC.
+2. Adicione os detalhes do `AMFIPass.kext`  na seção de kernel do `config.plist`. Salve o `config.plist` de volta na pasta EFI /OC.
 
 3. Baixe a versão 1.40 do `AMFIPass.kext` e copie-o para a pasta Kext do seu drive EFI.
 
