@@ -1,0 +1,1 @@
+# Virtualiza-o-em-Hackintosh-baseado-em-AMD-em-hardware-real-Sonoma...-poss-vel-
