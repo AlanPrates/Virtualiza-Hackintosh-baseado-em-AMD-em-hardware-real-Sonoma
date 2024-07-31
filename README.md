@@ -41,6 +41,6 @@
 Mais informações em breve...
 
 ### Links Úteis:
-- [Virtual Box Versões Antigas](https://www.virtualbox.org/wiki/Download_Old_Builds_6_1)
+- [Virtual Box Versões Antigas 6.1.50](https://www.virtualbox.org/wiki/Download_Old_Builds_6_1)
 - [Guest Additions](https://download.virtualbox.org/virtualbox/6.1.50/)
 - [AMFIPass kext](https://community.macmeup.com/index.php?/files/category/3-kexts/) ou [AMFIPass-v1.4.0-RELEASE.zip](payloads/Kexts/Acidanthera/AMFIPass-v1.4.0-RELEASE.zip)
